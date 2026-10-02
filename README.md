@@ -10,9 +10,11 @@ I'm continuously improving my programming and development skills through hands-o
 - 🚀 Exploring web development and new technologies
 - 🤝 Open to learning, collaboration, and new opportunities
 
+
   ## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Huba%20Jabeen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huba-jabeen-469406438/)## 🛠️ Skills & Technologies
+
 
 ## 🎯 Career Goal
 
@@ -26,9 +28,14 @@ I am currently strengthening my skills in:
 - 🔧 Software Development
 
 I am focused on continuous learning and building real-world projects.
+
+
+## 🛠️ Skills & Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,github,vscode" />
 </p>
+
 
 ## 🚀 Projects
 
