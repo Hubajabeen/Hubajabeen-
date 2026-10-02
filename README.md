@@ -36,6 +36,22 @@ I am focused on continuous learning and building real-world projects.
   <img src="https://skillicons.dev/icons?i=python,html,css,js,java,mysql,git,github,vscode" />
 </p>
 
+## 📜 Certificates
+
+### Python Fundamentals & Beyond
+**SCET-NEXUS | 5–6 August 2026**
+
+[📄 View Certificate](file:///C:/Users/hubajabeen/Downloads/pythonct.pdf)
+
+
+## 📊 GitHub Stats
+
+![Huba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubajabeen&show_icons=true)
+
+
+## 💻 Most Used Languages
+
+![python](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubajabeen&layout=compact)
 
 ## 🚀 Projects
 
@@ -52,3 +68,24 @@ A Python-based project for managing student marks, calculating results, and hand
 ### 💻 More Projects Coming Soon
 Currently learning and building more projects to strengthen my programming and development skills.
 
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+
+
+## 👾 Pac-Man
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DuyetBKU/viz-pacman-github-profile/main/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
+</p>
+
+## 👾 Pac-Man
+
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Ferousco-dev/github-pacman/main/output/pacman-contribution-graph.svg)
+
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hubajabeen)
