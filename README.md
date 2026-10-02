@@ -74,18 +74,3 @@ Currently learning and building more projects to strengthen my programming and d
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
-
-## 👾 Pac-Man
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DuyetBKU/viz-pacman-github-profile/main/output/pacman-contribution-graph.svg" alt="Pac-Man Contribution Graph">
-</p>
-
-## 👾 Pac-Man
-
-![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Ferousco-dev/github-pacman/main/output/pacman-contribution-graph.svg)
-
-
-## 📈 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Hubajabeen)
