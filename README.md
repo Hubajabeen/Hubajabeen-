@@ -49,9 +49,9 @@ I am focused on continuous learning and building real-world projects.
 ![Huba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hubajabeen&show_icons=true)
 
 
-## 💻 Most Used Languages
+## 💻 Languages
 
-![python](https://github-readme-stats.vercel.app/api/top-langs/?username=Hubajabeen&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hubajabeen&layout=compact)
 
 ## 🚀 Projects
 
