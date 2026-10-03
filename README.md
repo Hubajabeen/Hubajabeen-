@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9EAF5,100:8DD8E8&height=150&section=footer&text=Huba%20Jabeen&fontSize=40&fontColor=ffffff"/>
+<h1 align="center">🩵 Huba Jabeen</h1>
 
 
 ## 👩‍💻 About Me
