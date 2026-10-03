@@ -1,4 +1,6 @@
-<h1 align="center">🩵 Huba Jabeen</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=600&lines=Huba+Jabeen;Python+Developer;CSE-DS+Student" alt="Typing SVG" />
+</p>
 
 
 ## 👩‍💻 About Me
