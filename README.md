@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9EAF5,100:8DD8E8&height=150&section=footer&text=Huba%20Jabeen&fontSize=40&fontColor=ffffff"/>
+
+
 ## 👩‍💻 About Me
 
 Hi! I'm **Huba Jabeen**, a CSE-DS student and aspiring ** Full Python Developer** who enjoys learning, building projects, solving problems, and exploring modern technologies.
@@ -70,12 +73,6 @@ A Python-based project for managing student marks, calculating results, and hand
 Currently learning and building more projects to strengthen my programming and development skills.
 
 
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
-
-
 ## 👾 Contribution Activity
 
 <picture>
@@ -88,3 +85,7 @@ Currently learning and building more projects to strengthen my programming and d
   <img alt="Pac-Man Contribution Graph"
     src="https://raw.githubusercontent.com/Hubajabeen/Hubajabeen-/output/pacman-contribution-graph.svg">
 </picture>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9EAF5,100:8DD8E8&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff"/>
+</p>
