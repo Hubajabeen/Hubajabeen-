@@ -27,6 +27,7 @@ I am currently strengthening my skills in:
 - 💻 Problem Solving
 - 🔧 Software Development
 
+
 I am focused on continuous learning and building real-world projects.
 
 
@@ -75,4 +76,6 @@ Currently learning and building more projects to strengthen my programming and d
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
+## 👾 Contribution Activity
 
+![Pac-Man Contribution Graph](https://raw.githubusercontent.com/Hubajabeen/Hubajabeen/output/pacman-contribution-graph.svg)
