@@ -89,5 +89,5 @@ Currently learning and building more projects to strengthen my programming and d
 </picture>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9EAF5,100:8DD8E8&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile!&fontSize=30&fontColor=ffffff"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=700&lines=Huba+Jabeen;Thanks+for+visiting+my+profile!;Python+Developer;CSE-DS+Student" alt="Typing SVG" />
 </p>
