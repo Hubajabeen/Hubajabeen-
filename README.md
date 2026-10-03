@@ -13,7 +13,7 @@ I'm continuously improving my programming and development skills through hands-o
 
   ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huba%20Jabeen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huba-jabeen-469406438/)## 🛠️ Skills & Technologies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Huba%20Jabeen-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/huba-jabeen-469406438/)
 
 
 ## 🎯 Career Goal
