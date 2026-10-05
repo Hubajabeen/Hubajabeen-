@@ -5,7 +5,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Huba Jabeen**, a CSE-DS student and aspiring ** Full Python Developer** who enjoys learning, building projects, solving problems, and exploring modern technologies.
+Hi! I'm **Huba Jabeen**, a CSE-DS student and aspiring ** Full stack Python Developer** who enjoys learning, building projects, solving problems, and exploring modern technologies.
 
 I'm continuously improving my programming and development skills through hands-on practice and projects. My goal is to turn what I learn into useful and practical software.
 
@@ -23,7 +23,7 @@ I'm continuously improving my programming and development skills through hands-o
 
 ## 🎯 Career Goal
 
-My goal is to become a ** Full Python Developer** and build practical, reliable, and user-focused software applications.
+My goal is to become a ** Full  stack Python Developer** and build practical, reliable, and user-focused software applications.
 
 I am currently strengthening my skills in:
 - 🐍 Python
