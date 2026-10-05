@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=600&lines=Huba+Jabeen; Full+stack+Python+Developer" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=700&lines= Huba+Jabeen; Full+Stack+python+Developer" alt="Typing SVG" />
 </p>
 
 
@@ -89,5 +89,5 @@ Currently learning and building more projects to strengthen my programming and d
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=700&lines=Huba+Jabeen;Thanks+for+visiting+my+profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile" alt="Typing SVG" />
 </p>
