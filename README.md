@@ -1,6 +1,7 @@
 <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=700&lines= Huba+Jabeen; Full+Stack+python+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=B9EAF5&center=true&vCenter=true&width=800&lines=Huba+Jabeen;Full+Stack+Python+Developer" alt="Huba Jabeen - Full Stack Python Developer" />
 </p>
+
 
 
 ## 👩‍💻 About Me
